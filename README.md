@@ -1,1 +1,1 @@
-# .github
+# MineBox AI
